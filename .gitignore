@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+myenv/
+__pycache__/
+*.pyc
+.vscode/
+crud.py
