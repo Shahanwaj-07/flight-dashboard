@@ -36,7 +36,7 @@ booking early save? How do Economy and Business fares compare?
 - Auto-generated insights (cheapest time to fly, cheapest airline, non-stop vs 1-stop difference)
 
 ### ℹ️ About
-- Project summary, live dataset statistics, tech stack and a data-flow diagram
+- Project summary, live dataset statistics,streamlit, python, mysql, plotly, data-visualization.
 
 The dashboard works in both **light and dark** mode.
 
