@@ -88,7 +88,7 @@ flight-dashboard/
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/<your-username>/flight-dashboard.git
+git clone https://github.com/Shahanwaj-07/flight-dashboard
 cd flight-dashboard
 ```
 
